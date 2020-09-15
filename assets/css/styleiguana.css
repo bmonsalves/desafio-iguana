@@ -1,0 +1,138 @@
+/* empezamos con el body */
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+/* elementos del header */
+header {
+  width: 80rem;
+  height: 4.5625rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.125rem;
+  font-weight: 500;
+  margin-top: 0.4375rem;
+  margin-bottom: 0.4375rem;
+}
+
+/* hero-section*/
+
+#iguana {
+  background-image: url('../img/bg-header.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 80em;
+  height: 45.4375em;
+}
+
+/*descripcion iguana*/
+
+#descripcion_iguana {
+  width: 80em;
+  height: 21.75em;
+}
+
+.descripcion {
+  width: 29.688em;
+  height: 12.313em;
+  margin-left: 9.375em;
+  margin-top: 4.75em;
+  margin-bottom: 4.688em;
+  font-size: 1em;
+  font-weight: 300;
+  display: inline-block;
+  text-align: left;
+}
+
+.fotoiguana {
+  width: 24.938em;
+  height: 14.813em;
+  background-image: url('../img/iguana-1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-top: 2.813em;
+  margin-left: 6.625em;
+}
+
+/*caracteristicas*/
+#caracteristicas {
+  background-color: #1e1a13;
+  width: 80em;
+  height: 21.75em;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+  padding-top: 75px;
+  padding-left: 463.5px;
+  padding-right: 460.5px;
+}
+
+.iconosydesc {
+  padding-left: 301px;
+  padding-right: 243.12px;
+  padding-top: 50px;
+  font-size: 25px;
+}
+
+.icono {
+  display: inline-block;
+  font-weight: 300;
+}
+
+/*fotos de iguana*/
+#fotos {
+  width: 80em;
+  height: 21.75em;
+  background-color: #000000;
+  padding-left: 9.375em;
+}
+
+#fotos div {
+  width: 19.75em;
+  height: 12.625em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-top: 4.563em;
+  margin-bottom: 4.563em;
+  margin-left: 1em;
+}
+
+.iguana-2 {
+  background-image: url('../img/iguana-2.jpg');
+}
+
+.iguana-3 {
+  background-image: url('../img/iguana-3.jpg');
+}
+
+.iguana-4 {
+  background-image: url('../img/iguana-4.jpg');
+}
+
+/* footer */
+footer {
+  background-color: #1e1a13;
+  height: 6.375em;
+  text-align: center;
+  padding-top: 2.438em;
+  padding-bottom: 2.438em;
+  font-size: 1.25em;
+  font-weight: 100;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
