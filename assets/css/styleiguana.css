@@ -65,36 +65,36 @@ h1 {
 /*caracteristicas*/
 #caracteristicas {
   background-color: #1e1a13;
-  width: 1280px;
+  width: 80em;
   height: 21.75em;
 }
 
 h2 {
   text-align: center;
   font-weight: 500;
-  font-size: 40px;
-  padding-top: 75px;
-  padding-left: 463.5px;
-  padding-right: 460.5px;
+  font-size: 2.5rem;
+  padding-top: 4.688rem;
+  padding-left: 28.969rem;
+  padding-right: 28.781rem;
 }
 
 .icono {
   display: inline-block;
   font-weight: 300;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 3.125rem;
 }
 
 .ojo {
-  padding-left: 301px;
+  padding-left: 19.375rem;
 }
 
 .mano {
-  padding-left: 182px;
+  padding-left: 11.375rem;
 }
 
 .pincel {
-  padding-left: 145.88px;
+  padding-left: 9.118rem;
 }
 
 
