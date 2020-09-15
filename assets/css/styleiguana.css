@@ -65,7 +65,7 @@ h1 {
 /*caracteristicas*/
 #caracteristicas {
   background-color: #1e1a13;
-  width: 80em;
+  width: 1280px;
   height: 21.75em;
 }
 
@@ -78,16 +78,23 @@ h2 {
   padding-right: 460.5px;
 }
 
-.iconosydesc {
-  padding-left: 301px;
-  padding-right: 243.12px;
-  padding-top: 50px;
-  font-size: 25px;
-}
-
 .icono {
   display: inline-block;
   font-weight: 300;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.ojo {
+  padding-left: 301px;
+}
+
+.mano {
+  padding-left: 182px;
+}
+
+.pincel {
+  padding-left: 145.88px;
 }
 
 /*fotos de iguana*/
@@ -123,6 +130,7 @@ h2 {
 
 /* footer */
 footer {
+  width: 1280px;
   background-color: #1e1a13;
   height: 6.375em;
   text-align: center;
